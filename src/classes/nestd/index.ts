@@ -1,1 +1,1 @@
-export {Nestd} from './nestd.class';
+export * from './nestd.class';
