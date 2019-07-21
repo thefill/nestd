@@ -2,4 +2,4 @@
 
 # Nestd
 
-Simple, lightweight dependency injector - supports factories, classes and primitives.
+Recursive file operations toolkit.
